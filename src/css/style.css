@@ -5,14 +5,16 @@ body {
 }
 
 .pole {
-    background-color: red;
+    /* background-color: red;*/
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
 }
 
 .cell {
-    width: 25%;
+    width: 20%;
     height: 120px;
-    background-color: blueviolet;
+    border-width: 2px;
+    border-color: brown;
+    border-style: solid;
 }
