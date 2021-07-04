@@ -1,0 +1,1 @@
+const r = document.querySelectorAll('.cell');
